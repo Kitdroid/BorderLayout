@@ -1,2 +1,2 @@
 # BorderLayout
-An Android layout like BorderLayout for JFrame in SWing.
+An Android layout like BorderLayout for JFrame in Swing.
